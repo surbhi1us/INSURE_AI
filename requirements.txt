@@ -1,0 +1,8 @@
+pymupdf
+scikit-learn
+fastapi
+uvicorn
+python-dotenv
+groq
+python-pptx
+tavily-python
